@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_lock_outline_black_48dp.png",
+        "source": "/Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/res/mipmap-mdpi/ic_lock_outline_black_48dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_lock_open_black_24dp.png",
+        "source": "/Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/res/mipmap-mdpi/ic_lock_open_black_24dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_lock_outline_black_24dp.png",
+        "source": "/Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/res/mipmap-mdpi/ic_lock_outline_black_24dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_lock_open_black_48dp.png",
+        "source": "/Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/res/mipmap-mdpi/ic_lock_open_black_48dp.png"
+    }
+]

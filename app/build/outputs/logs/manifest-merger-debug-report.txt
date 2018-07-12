@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/d804a07f75305e724e54d148ffc3f136b2c20d9f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac/.android/build-cache/0f63f147e385146e6bf902ff2b519ac2a480be25/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/mac/.android/build-cache/a4d456b45d614dc3346d4a4249fd092ac894e645/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/8fe898b5ba8f4cbbcfbf182b6603b3988cd2186d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mac/.android/build-cache/21d134cdf3e6032e96ea129f6140895b2bcf999f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mac/.android/build-cache/09af84348728b9e8c08a738092519576c2223951/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mac/.android/build-cache/1258c7be4a15824757dfbd6ad614e9330556822e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mac/.android/build-cache/b8018cefed302538622c53941876a59d3a98cb92/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mac/.android/build-cache/62e231cb68ecf2ffe52a0c6d4f5462d354f34f8b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mac/.android/build-cache/2f87f01f70afe93e17b8980ff838837bae15cc94/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mac/.android/build-cache/4e33492ce49b0b11862deee6c3ac6f51ebcb540d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mac/.android/build-cache/2b783b524e4acd8cd04f38041002342c4090ca7e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mac/.android/build-cache/32167d9ed56cc2e6d5d5406b6b209f229ce3f55d/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:7:9-38
+	android:theme
+		ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:11:9-40
+activity#funcorp.smarthome_v1.Login
+ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:12:19-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:16:27-74
+activity#funcorp.smarthome_v1.MainActivity
+ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:19:9-24:20
+	android:label
+		ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml:20:13-41
+uses-sdk
+INJECTED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/d804a07f75305e724e54d148ffc3f136b2c20d9f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac/.android/build-cache/0f63f147e385146e6bf902ff2b519ac2a480be25/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/mac/.android/build-cache/a4d456b45d614dc3346d4a4249fd092ac894e645/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/8fe898b5ba8f4cbbcfbf182b6603b3988cd2186d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mac/.android/build-cache/21d134cdf3e6032e96ea129f6140895b2bcf999f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mac/.android/build-cache/09af84348728b9e8c08a738092519576c2223951/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/e485783b56d0a5b8565e1998ba59adb2a75cfb95/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mac/.android/build-cache/1258c7be4a15824757dfbd6ad614e9330556822e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mac/.android/build-cache/b8018cefed302538622c53941876a59d3a98cb92/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mac/.android/build-cache/62e231cb68ecf2ffe52a0c6d4f5462d354f34f8b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mac/.android/build-cache/2f87f01f70afe93e17b8980ff838837bae15cc94/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mac/.android/build-cache/4e33492ce49b0b11862deee6c3ac6f51ebcb540d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mac/.android/build-cache/2b783b524e4acd8cd04f38041002342c4090ca7e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mac/.android/build-cache/32167d9ed56cc2e6d5d5406b6b209f229ce3f55d/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/mac/.android/build-cache/a4d456b45d614dc3346d4a4249fd092ac894e645/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/Android Studio Project/endang/SmartHome_v1/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/d804a07f75305e724e54d148ffc3f136b2c20d9f/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/mac/.android/build-cache/a4d456b45d614dc3346d4a4249fd092ac894e645/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/8fe898b5ba8f4cbbcfbf182b6603b3988cd2186d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mac/.android/build-cache/21d134cdf3e6032e96ea129f6140895b2bcf999f/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mac/.android/build-cache/09af84348728b9e8c08a738092519576c2223951/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/e485783b56d0a5b8565e1998ba59adb2a75cfb95/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mac/.android/build-cache/1258c7be4a15824757dfbd6ad614e9330556822e/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mac/.android/build-cache/b8018cefed302538622c53941876a59d3a98cb92/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mac/.android/build-cache/62e231cb68ecf2ffe52a0c6d4f5462d354f34f8b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mac/.android/build-cache/2f87f01f70afe93e17b8980ff838837bae15cc94/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mac/.android/build-cache/4e33492ce49b0b11862deee6c3ac6f51ebcb540d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mac/.android/build-cache/2b783b524e4acd8cd04f38041002342c4090ca7e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mac/.android/build-cache/32167d9ed56cc2e6d5d5406b6b209f229ce3f55d/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/d804a07f75305e724e54d148ffc3f136b2c20d9f/output/AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/d804a07f75305e724e54d148ffc3f136b2c20d9f/output/AndroidManifest.xml:23:9-47
